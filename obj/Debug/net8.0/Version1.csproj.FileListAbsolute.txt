@@ -1,0 +1,14 @@
+D:\HCP_Tasks\HCP_FirstTask\Version1\bin\Debug\net8.0\Version1.exe
+D:\HCP_Tasks\HCP_FirstTask\Version1\bin\Debug\net8.0\Version1.deps.json
+D:\HCP_Tasks\HCP_FirstTask\Version1\bin\Debug\net8.0\Version1.runtimeconfig.json
+D:\HCP_Tasks\HCP_FirstTask\Version1\bin\Debug\net8.0\Version1.dll
+D:\HCP_Tasks\HCP_FirstTask\Version1\bin\Debug\net8.0\Version1.pdb
+D:\HCP_Tasks\HCP_FirstTask\Version1\obj\Debug\net8.0\Version1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCP_Tasks\HCP_FirstTask\Version1\obj\Debug\net8.0\Version1.AssemblyInfoInputs.cache
+D:\HCP_Tasks\HCP_FirstTask\Version1\obj\Debug\net8.0\Version1.AssemblyInfo.cs
+D:\HCP_Tasks\HCP_FirstTask\Version1\obj\Debug\net8.0\Version1.csproj.CoreCompileInputs.cache
+D:\HCP_Tasks\HCP_FirstTask\Version1\obj\Debug\net8.0\Version1.dll
+D:\HCP_Tasks\HCP_FirstTask\Version1\obj\Debug\net8.0\refint\Version1.dll
+D:\HCP_Tasks\HCP_FirstTask\Version1\obj\Debug\net8.0\Version1.pdb
+D:\HCP_Tasks\HCP_FirstTask\Version1\obj\Debug\net8.0\Version1.genruntimeconfig.cache
+D:\HCP_Tasks\HCP_FirstTask\Version1\obj\Debug\net8.0\ref\Version1.dll
