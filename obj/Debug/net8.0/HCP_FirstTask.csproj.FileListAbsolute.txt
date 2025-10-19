@@ -1,0 +1,14 @@
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\bin\Debug\net8.0\HCP_FirstTask.exe
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\bin\Debug\net8.0\HCP_FirstTask.deps.json
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\bin\Debug\net8.0\HCP_FirstTask.runtimeconfig.json
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\bin\Debug\net8.0\HCP_FirstTask.dll
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\bin\Debug\net8.0\HCP_FirstTask.pdb
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\obj\Debug\net8.0\HCP_FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\obj\Debug\net8.0\HCP_FirstTask.AssemblyInfoInputs.cache
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\obj\Debug\net8.0\HCP_FirstTask.AssemblyInfo.cs
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\obj\Debug\net8.0\HCP_FirstTask.csproj.CoreCompileInputs.cache
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\obj\Debug\net8.0\HCP_FirstTask.dll
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\obj\Debug\net8.0\refint\HCP_FirstTask.dll
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\obj\Debug\net8.0\HCP_FirstTask.pdb
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\obj\Debug\net8.0\HCP_FirstTask.genruntimeconfig.cache
+D:\HCP_Tasks\HCP_FirstTask\HCP_FirstTask\obj\Debug\net8.0\ref\HCP_FirstTask.dll
